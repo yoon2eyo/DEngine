@@ -1,4 +1,4 @@
-20210128
-Draft version
-hello
-enjoy it
+20210129
+First official release!!
+nice to meet you.
+enjoy.
