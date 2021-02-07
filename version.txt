@@ -1,5 +1,4 @@
-20210201
-Fixed a UTF8 encoding issue.
-Fixed a focus lost issue when filter updating.
-The guide document shows only when the setting is not modified.
+20210207
+Improved performnace of page loading.
+Improved memory consumption.
 
