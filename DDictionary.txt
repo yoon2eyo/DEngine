@@ -1,3 +1,5 @@
-20210207
-Added LongMan Dictionary.
-Improved page loading time.
+20210211
+User can add and remove the websites.
+Last selected tab will be loaded first.
+enjoy!!
+
